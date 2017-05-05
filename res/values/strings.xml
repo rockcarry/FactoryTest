@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">FactoryTest</string>
+    <string name="key_power">POWER</string>
+    <string name="key_home">HOME</string>
+    <string name="key_vol_dec">VOL-</string>
+    <string name="key_vol_inc">VOL+</string>
+    <string name="btn_failed">NG</string>
+    <string name="btn_pass">PASS</string>
+    <string name="btn_done">DONE</string>
+    <string name="btn_play">PLAY</string>
+    <string name="btn_pause">PAUSE</string>
+    <string name="btn_bkl_dec">-</string>
+    <string name="btn_bkl_inc">+</string>
+    <string name="btn_scan">scan</string>
+    <string name="btn_gpstest">GPS TEST</string>
+    <string name="btn_factoryreset">DONE (WIPE)</string>
+    <string name="txt_audiotest">"1. please listen the music from device's speaker\n2. please plug-in earphone and listen music from earphone\n3. please check the earphone detect status is correct\n4. please check earphone left(male)/right(female) channels ok\n5. please check the mic is ok\n"</string>
+
+</resources>
