@@ -102,7 +102,7 @@ public class WiFiTest extends Activity {
                         info += "no ap found !\n";
                         mTxtInfo.setTextColor(Color.RED);
                     } else {
-                        mTxtInfo.setTextColor(Color.YELLOW);
+                        mTxtInfo.setTextColor(Color.GREEN);
                     }
                     mTxtInfo.setText(info);
                 }

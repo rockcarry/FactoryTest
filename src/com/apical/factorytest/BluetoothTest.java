@@ -50,6 +50,7 @@ public class BluetoothTest extends Activity {
 
         mTxtList = (EditText) findViewById(R.id.txt_devlist);
         mTxtList.setTypeface(Typeface.MONOSPACE, Typeface.NORMAL);
+        mTxtList.setTextColor(Color.GREEN);
 
         IntentFilter filter = new IntentFilter();
         filter.addAction(BluetoothDevice.ACTION_FOUND);

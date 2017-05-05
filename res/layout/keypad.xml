@@ -28,52 +28,50 @@
 
         <TextView
             android:id="@+id/key_home"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="128dp"
+            android:layout_height="60dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
             android:paddingLeft="10dp"
             android:paddingRight="10dp"
             android:background="#ff0000"
+            android:gravity="center"
             android:text="@string/key_home"
             android:textColor="#ffffff"
             android:textSize="@dimen/btn_text_size" />
 
         <TextView
             android:id="@+id/key_power"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="128dp"
+            android:layout_height="60dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:paddingLeft="10dp"
-            android:paddingRight="10dp"
             android:background="#ff0000"
+            android:gravity="center"
             android:text="@string/key_power"
             android:textColor="#ffffff"
             android:textSize="@dimen/btn_text_size" />
 
         <TextView
             android:id="@+id/key_vol_dec"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="128dp"
+            android:layout_height="60dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:paddingLeft="10dp"
-            android:paddingRight="10dp"
             android:background="#ff0000"
+            android:gravity="center"
             android:text="@string/key_vol_dec"
             android:textColor="#ffffff"
             android:textSize="@dimen/btn_text_size" />
 
         <TextView
             android:id="@+id/key_vol_inc"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="128dp"
+            android:layout_height="60dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:paddingLeft="10dp"
-            android:paddingRight="10dp"
             android:background="#ff0000"
+            android:gravity="center"
             android:text="@string/key_vol_inc"
             android:textColor="#ffffff"
             android:textSize="@dimen/btn_text_size" />
